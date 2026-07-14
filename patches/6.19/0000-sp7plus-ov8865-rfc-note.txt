@@ -1,0 +1,1 @@
+Apply 0014-ov8865-pwr1.patch after 0013-cameras.patch when testing the Surface Pro 7+ rear-camera RFC.
